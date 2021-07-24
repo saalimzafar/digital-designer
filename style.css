@@ -83,10 +83,10 @@ header a:hover{
 #showcase{
   
   background:#35424a;
-  background-position: center;
-  background-size: cover;
+  
+  
   text-align:center;
-  color:#ffffff;
+  color:black;
 }
 
 #showcase h1{
